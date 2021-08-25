@@ -1,7 +1,5 @@
 # calculatorapp
 
-this project is for remember what i have learned in two weeks (is kind of challenge) so   ....
-
 ## Getting Started
 
 This project is a starting point for a Flutter application.
