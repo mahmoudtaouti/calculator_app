@@ -16,6 +16,6 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 
-![dark mode](screenshot_dark.png | width=100)
+![dark mode](screenshot_dark.png =100*320)
 
-![light mode](screenshot_light.png | width=100)
+![light mode](screenshot_light.png =100*320)
