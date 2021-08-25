@@ -16,6 +16,6 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 
-![dark mode](https://drive.google.com/file/d/176OZsn3iMu262Gfmivorrf7aKxmKb2Cg/view?usp=sharing)
+![dark mode](screenshot_dark.png)
 
-![light mode](https://drive.google.com/file/d/1Xy9pmMsqf-KiUmu40kyLE6oaVnu9PcyX/view?usp=sharing)
+![light mode](screenshot_light.png)
