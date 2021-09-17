@@ -14,11 +14,13 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 
-![dark mode](screenshot_dark.png)
 
-![light mode](screenshot_light.png)
-
-
+light mode
 <div align="center">
     <img src="screenshot_light.png" width="400px"</img> 
+</div>
+
+dark mode
+<div align="center">
+    <img src="screenshot_dark.png" width="400px"</img> 
 </div>
