@@ -2,7 +2,7 @@
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a starting point for a Flutter application.Cancel changes
 
 A few resources to get you started if this is your first Flutter project:
 
@@ -20,5 +20,5 @@ samples, guidance on mobile development, and a full API reference.
 
 
 <div align="center">
-    <img src="/screenshots/screenshot_light.png" width="400px"</img> 
+    <img src="screenshot_light.png" width="400px"</img> 
 </div>
