@@ -17,10 +17,10 @@ samples, guidance on mobile development, and a full API reference.
 
 light mode
 <div align="center">
-    <img src="screenshot_light.png" width="400px"</img> 
+    <img src="screenshot_light.png" width="300px"</img> 
 </div>
 
 dark mode
 <div align="center">
-    <img src="screenshot_dark.png" width="400px"</img> 
+    <img src="screenshot_dark.png" width="430px"</img> 
 </div>
