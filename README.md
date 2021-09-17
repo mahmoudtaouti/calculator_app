@@ -1,9 +1,10 @@
 # Calculator app
-Simple calculator built with Flutter which performs the functions of a basic calculator,
-currently support only Android plattform
 
-<div align="center">
-    <img src="/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" width="150px"</img>
+
+<div align="left">
+    <p>Simple calculator built with Flutter which performs the functions of a basic calculator,
+    currently support only Android plattform</p>
+    <img src="/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" width="100px"</img>
 </div>
 
 # Preview
