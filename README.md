@@ -22,5 +22,5 @@ light mode
 
 dark mode
 <div align="center">
-    <img src="screenshot_dark.png" width="430px"</img> 
+    <img src="screenshot_dark.png" width="300px"</img> 
 </div>
