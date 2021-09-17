@@ -17,3 +17,8 @@ samples, guidance on mobile development, and a full API reference.
 ![dark mode](screenshot_dark.png)
 
 ![light mode](screenshot_light.png)
+
+
+<div align="center">
+    <img src="/screenshots/screenshot_light.png" width="400px"</img> 
+</div>
